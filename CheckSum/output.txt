@@ -1,0 +1,6 @@
+Enter the number of bits in the checksum
+Enter the number of data
+Enter the data 
+checksum = 0
+If this data was recieved at the recievers side then
+ the data is correct

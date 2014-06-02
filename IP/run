@@ -1,0 +1,8 @@
+#!/bin/bash
+g++ IP.cpp -o p 
+if [  "$?" = "0" ] ; then
+	./p < input.txt > output.txt	
+fi
+cat output.txt
+echo  
+
